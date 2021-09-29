@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vincent-Paul Vincentelli</h1>
-<h3 align="center">I am completing a training in data science with OpenClassrooms</h3>
+<h4 align="center">I am a data scientist with a strong experience in logistics and business analytics</h4>
 
-- 🔭 I’m currently working on [a loan scoring model and a dashboard to display and interpret predictions](https://github.com/vpvinc/P7_loan_scoring_model)
+Soon to be graduated from the Data Scientist program of Openclassrooms & Centrale Supélec, I have completed height data 
+science projects ranging from simple EDA or clustering to deploying a neural network into an AWS EMR cluster. I had the 
+opportunity to work on different data types like NLP or images. My last three projects are available in my GitHub repos.
+Last but not least, I have been an area manager in an Amazon sort center for two years. This operational experience gave
+me an in-depth understanding of the operational field, and helped me grow my leadership skills.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vincent-paul-vincentelli-828314a2/](https://www.linkedin.com/in/vincent-paul-vincentelli-828314a2/)
+**Data science projects:**
+
+1) p2: EDA of the [dataset on education statistics of the World Bank](https://datacatalog.worldbank.org/search/dataset/0038480) to find out interesting trends for e-learning companies
+2) p3: EDA of the database of [Openfoodfacts](https://world.openfoodfacts.org/) in order to compute a nutrition quality score for products
+3) p4: model to predict the energy consumption and the greenhouse gas emission of newly-built buildings ([kaggle](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv))
+4) p5: clustering of a dataset of clients for an e-commerce company ([kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce))
+5) [p6_products_classification](https://github.com/vpvinc/p6_products_classification): feasibility study: automatic categorization of products using NLP and images
+6) [p7_loan_scoring_model](https://github.com/vpvinc/P7_loan_scoring_model): scoring algorithm for bank credit applications + online Dashboard to interpret predictions
+7) [p8_aws_sparks_dim_red](https://github.com/vpvinc/p8_aws_sparks_dim_red): (**WIP**) dimension reduction of a large dataset of images by transfer learning on an AWS EMR cluster
+
+
+- 📄 Know more about my experiences [https://www.linkedin.com/in/vincent-paul-vincentelli-828314a2/](https://www.linkedin.com/in/vincent-paul-vincentelli-828314a2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
