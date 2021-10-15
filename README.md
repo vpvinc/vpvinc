@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent-Paul Vincentelli</h1>
+<h1 align="center">Hi, I'm Vincent-Paul Vincentelli</h1>
 <h4 align="center">I am a data scientist with a strong experience in logistics and business analytics</h4>
 
 Soon to be graduated from the Data Scientist program of Openclassrooms & Centrale Supélec, I have completed height data 
