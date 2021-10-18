@@ -5,7 +5,7 @@ Soon to be graduated from the Data Scientist program of Openclassrooms & Central
 science projects ranging from simple EDA or clustering to deploying a pyspark application into an AWS EMR cluster. I had the 
 opportunity to work on different data types like NLP or images and to deal with unbalanced datasets. My last three projects are available in my GitHub repos.
 Last but not least, I have been an area manager in an Amazon sort center for two years. This operational experience gave
-me an in-depth understanding of the operational field, and helped me grow my data analysis skills.
+me an in-depth understanding of the operational field, and helped me grow my leadership data analysis skills.
 
 **Data science projects:**
 
