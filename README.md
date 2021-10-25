@@ -15,7 +15,7 @@ me an in-depth understanding of the operational field, and helped me grow my dat
 4) p5: clustering of a dataset of clients for an e-commerce company ([kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce))
 5) [p6_products_classification](https://github.com/vpvinc/p6_products_classification): feasibility study: automatic categorization of products using NLP and images
 6) [p7_loan_scoring_model](https://github.com/vpvinc/P7_loan_scoring_model): scoring algorithm for bank credit applications + online Dashboard to interpret predictions
-7) [p8_aws_sparks_dim_red](https://github.com/vpvinc/p8_aws_sparks_dim_red): (**WIP**) dimension reduction of a large dataset of images by transfer learning on an AWS EMR cluster
+7) [p8_aws_sparks_dim_red](https://github.com/vpvinc/p8_aws_sparks_dim_red): dimension reduction of a large dataset of images by transfer learning on an AWS EMR cluster
 
 
 - 📄 Know more about my experiences [https://www.linkedin.com/in/vincent-paul-vincentelli-828314a2/](https://www.linkedin.com/in/vincent-paul-vincentelli-828314a2/)
