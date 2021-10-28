@@ -1,7 +1,7 @@
 <h1 align="center">Vincent-Paul Vincentelli</h1>
 <h4 align="center">I am a data scientist with a strong experience in logistics and business analytics</h4>
 
-Recently graduated from the Data Scientist program of Openclassrooms & Centrale Supélec, I have completed height data 
+Recently graduated from the Data Scientist program of Openclassrooms & Centrale Supélec, I have completed eight data 
 science projects ranging from simple EDA or clustering to deploying a pyspark application into an AWS EMR cluster. I had the 
 opportunity to work on different data types like NLP or images and to deal with unbalanced datasets. My last three projects are available in my GitHub repos.
 Finally, I have been an area manager in an Amazon sort center for two years. This operational experience gave
