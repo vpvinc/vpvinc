@@ -7,7 +7,7 @@ opportunity to work on different data types like NLP or images and to deal with 
 Finally, I have been an area manager in an Amazon sort center for two years. This operational experience gave
 me an in-depth understanding of the operational field, and helped me grow my data analysis skills.
 
-**Data science projects:**
+**Data science projects:** (last three projects have their own page)
 
 1) p2: EDA of the [dataset on education statistics of the World Bank](https://datacatalog.worldbank.org/search/dataset/0038480) to find out interesting trends for e-learning companies
 2) p3: EDA of the database of [Openfoodfacts](https://world.openfoodfacts.org/) in order to compute a nutrition quality score for products
