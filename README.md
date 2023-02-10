@@ -1,12 +1,10 @@
 <h1 align="center">Vincent-Paul Vincentelli</h1>
 <h4 align="center">I am a data scientist with a strong experience in logistics and business analytics</h4>
 
-Recently graduated from the Data Scientist program of Openclassrooms & Centrale Supélec, I have completed seven data 
+Graduated from the Data Scientist program of Openclassrooms & Centrale Supélec in 2021, I have completed seven data 
 science projects ranging from simple EDA or clustering to deploying a pyspark application into an AWS EMR cluster. I had the 
-opportunity to work on different data types like NLP or images and to deal with unbalanced datasets. My last three projects are available in my GitHub repos.
-Finally, I have been an area manager in an Amazon sort center for two years. This operational experience gave
-me an in-depth understanding of the operational field, and helped me grow my data analysis skills.
-I am now a Data scientist at [Quinten Finance]([url](https://en.quinten-finance.com/))
+opportunity to work on different data types like NLP or images and to deal with unbalanced datasets. My last three projects are available in my GitHub repos.<br/> 
+I have been working as a data scientist at [Quinten Finance]([url](https://en.quinten-finance.com/)) since 2022.
 
 **Data science projects completed during my training:** (last three projects have their own page)
 
